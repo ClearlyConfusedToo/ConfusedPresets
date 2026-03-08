@@ -945,7 +945,7 @@
             "forbid_overrides": false,
             "injection_order": 100,
             "injection_trigger": []
-        }
+        },
         {
             "identifier": "main",
             "system_prompt": true,
