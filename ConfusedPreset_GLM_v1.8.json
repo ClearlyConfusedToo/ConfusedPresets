@@ -33,7 +33,7 @@
             "marker": false,
             "name": "✉ Read-Me",
             "role": "system",
-            "content": "{{// GLM/Kimi Preset), Read-Me!\n\n「Version 1.7」\n\nCHANGE LOG:\n- Created 'Ban Toggle List'\n- Updated prompts.\n- Replaced Type 'Role player' with 'Actor'\n- 1.66\n* Added Kimi-specific instructions to better instruct <USER> agency.\n-  }}{{trim}}",
+            "content": "{{// GLM/Kimi Preset), Read-Me!\n\n「Version 1.8」\n\nCHANGE LOG:\n- Created 'Ban Toggle List'\n- Updated prompts.\n- Replaced Type 'Role player' with 'Actor'\n- 1.66\n* Added Kimi-specific instructions to better instruct <USER> agency.\n-  }}{{trim}}",
             "injection_position": 0,
             "injection_depth": 4,
             "forbid_overrides": false,
