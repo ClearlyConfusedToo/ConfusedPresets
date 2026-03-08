@@ -319,7 +319,7 @@
             "forbid_overrides": false,
             "injection_order": 50,
             "injection_trigger": []
-        }
+        },
         {
             "identifier": "id_toneHorror",
             "system_prompt": false,
@@ -389,7 +389,7 @@
             "forbid_overrides": false,
             "injection_order": 50,
             "injection_trigger": []
-        }
+        },
         {
             "identifier": "id_proseOnomatopoeia",
             "system_prompt": false,
@@ -403,7 +403,7 @@
             "forbid_overrides": false,
             "injection_order": 50,
             "injection_trigger": []
-        }
+        },
         {
             "identifier": "id_banSensoryDetails",
             "system_prompt": false,
@@ -1154,7 +1154,7 @@
             "injection_order": 101,
             "forbid_overrides": false,
             "injection_trigger": []
-        }
+        },
         {
             "identifier": "id_situationalToggles",
             "system_prompt": false,
