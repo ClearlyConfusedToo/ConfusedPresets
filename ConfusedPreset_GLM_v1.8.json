@@ -621,7 +621,7 @@
             "marker": false,
             "name": "╭──────────  M o r a l s  &  E t h i c s  ──────────╮",
             "role": "system",
-            "content": "{{//Choose any and all Morals & Ethics to inject." }}{{trim}}",
+            "content": "{{//Choose any and all Morals & Ethics to inject. }}{{trim}}",
             "injection_position": 0,
             "injection_depth": 4,
             "injection_order": 100,
