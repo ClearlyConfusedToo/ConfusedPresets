@@ -1506,11 +1506,15 @@
                     "enabled": true
                 },
                 {
+                    "identifier": "id_guidelinesMoralityFamily",
+                    "enabled": true
+                },
+                {
                     "identifier": "id_guidelinesMoralityPower",
                     "enabled": true
                 },
                 {
-                    "identifier": "id_guidelinesMoralityEthics",
+                    "identifier": "id_guidelinesMoralityProfessional",
                     "enabled": false
                 },
                 {
