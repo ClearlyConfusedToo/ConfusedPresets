@@ -1,6 +1,6 @@
 {
     "extensions": {},
-    "temperature": 0.85,
+    "temperature": 0.70,
     "frequency_penalty": 0,
     "presence_penalty": 0,
     "top_p": 0.95,
